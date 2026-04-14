@@ -1,6 +1,7 @@
 {
-    "version": "1.0.0",
-    "windows_url": "",
-    "macos_url": "",
-    "notes": ""
+    "version": "1.1.0",
+    "windows_url": "https://github.com/newfive111/courteous-dedication/releases/download/v1.1.0/AdminBot_CRM_Windows.zip",
+    "macos_url": "https://github.com/newfive111/courteous-dedication/releases/download/v1.1.0/AdminBot_CRM_Mac.zip",
+    "notes": "新增：更改客戶狀態、已刪除客戶復原、忘記密碼、每日報表記錄"
 }
+
